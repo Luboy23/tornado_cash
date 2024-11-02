@@ -1,0 +1,12 @@
+{
+  "name": "TornadoCash",
+  "version": "1.0.0",
+  "description": "a small tornado cash demo",
+  "main": "index.js",
+  "repository": "https://github.com/Luboy23/tornado_cash.git",
+  "author": "lllu_23",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
